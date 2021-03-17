@@ -6,7 +6,7 @@
   <link href="https://drinkingxan.github.io/atom.xml" rel="self"/>
   
   <link href="https://drinkingxan.github.io/"/>
-  <updated>2021-03-17T13:13:33.762Z</updated>
+  <updated>2021-03-17T14:05:57.792Z</updated>
   <id>https://drinkingxan.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://drinkingxan.github.io/2021/03/17/Calender/"/>
     <id>https://drinkingxan.github.io/2021/03/17/Calender/</id>
     <published>2021-03-17T11:59:10.000Z</published>
-    <updated>2021-03-17T13:13:33.762Z</updated>
+    <updated>2021-03-17T14:05:57.792Z</updated>
     
-    <content type="html"><![CDATA[<p>Calendar 是一个抽象类, 无法通过直接实例化得到对象. 因此, Calendar 提供了一个方法 getInstance,来获得一个Calendar对象, 得到的 Calendar 由当前时间初始化.<br>###Canlender CA=Calender.getInstance();</p><p>###特殊情况</p><p>1.DAY_OF_WEEK中，1代表的是星期日而非星期一，所以数字从小到大代表的依次是星期日、星期一、星期二、星期三、星期四、星期五、星期六.</p><p>2.MONTH中，第一个月用0表示而非1.</p><p>###实例应用（蓝桥杯第一题）</p><p><img src="https://s3.ax1x.com/2021/03/17/6coeMt.png" alt="IMG"></p><p>###目的:从1999年开始下一个12月31日是星期日的年份</p>]]></content>
+    <content type="html"><![CDATA[<p>Calendar 是一个抽象类, 无法通过直接实例化得到对象. 因此, Calendar 提供了一个方法 getInstance,来获得一个Calendar对象, 得到的 Calendar 由当前时间初始化.<br>###Canlender CA=Calender.getInstance();</p><p>###特殊情况</p><p>1.DAY_OF_WEEK中，1代表的是星期日而非星期一，所以数字从小到大代表的依次是星期日、星期一、星期二、星期三、星期四、星期五、星期六.</p><p>2.MONTH中，第一个月用0表示而非1.</p><p>###实例应用（蓝桥杯第一题）</p><p><img src="https://s3.ax1x.com/2021/03/17/6coeMt.png" alt="IMG"></p><p>###目的:从1999年开始下一个12月31日是星期日的年份</p><p>该文章部分内容摘自<a href="https://blog.csdn.net/weixin_44833195/article/details/106370577">原文地址</a>作者:【繁华】如侵权请留言删除</p>]]></content>
     
     
       
